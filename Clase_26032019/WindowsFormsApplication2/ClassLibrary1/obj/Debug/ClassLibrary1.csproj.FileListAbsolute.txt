@@ -1,0 +1,15 @@
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

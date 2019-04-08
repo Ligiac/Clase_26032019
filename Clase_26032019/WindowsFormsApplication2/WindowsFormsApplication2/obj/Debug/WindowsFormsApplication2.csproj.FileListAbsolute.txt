@@ -1,0 +1,33 @@
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ClassLibrary1.dll
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ClassLibrary1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ClassLibrary1.dll
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ClassLibrary1.pdb
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+J:\Amilcar Henriquez\Documents\UTEC\2019\Julia\Progra\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ClassLibrary1.dll
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_26032019\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
